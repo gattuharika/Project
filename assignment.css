@@ -1,0 +1,32 @@
+        p{
+			color:green;
+		}
+		p.class{
+			background-color: blue;
+		}
+		h1{
+			background-color: green;
+			padding: 25px;
+			border:10px solid blue;
+		}
+		#header{
+			padding: 5px;
+			border: 25px solid blue;
+			background-color: green;
+		}
+		h2.myclass{
+			border: 5px solid blue;
+			padding:10px;
+			background-color: green;
+		}
+		
+		#menu{
+			float:top;
+			margin:5px;
+			padding:2px;
+			border: 1px solid blue;
+		}
+		
+
+
+		
